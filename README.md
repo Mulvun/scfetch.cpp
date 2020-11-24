@@ -1,2 +1,2 @@
 # scfetch.cpp
-Antivirus evasion technique to execute shellcode in memory
+Antivirus (static analysis) evasion technique to send GET request to remote server, fetch shellcode from HTTP response and execute shellcode in memory, written in C++.
